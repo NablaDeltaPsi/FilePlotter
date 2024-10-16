@@ -1,0 +1,17 @@
+dist/
+build/
+__pycache__/
+old_versions/
+testdata/
+*.csv
+*.asc
+*.txt
+*.spec
+*.ini
+*.conf
+pyinstaller*
+create_icon/
+*.lnk
+*.bat
+*.todo
+.idea/*
